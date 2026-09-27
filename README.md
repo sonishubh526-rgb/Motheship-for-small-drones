@@ -1,2 +1,2 @@
-# Smallest-possible-drone
-Smallest possible drone
+# MotherShip for small drones 
+thats it
