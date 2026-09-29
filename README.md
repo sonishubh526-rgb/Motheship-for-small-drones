@@ -1,6 +1,5 @@
 # Tinywhoop type drone (cheapest,lightest,smallest and high quality)
-This is a Drone project having these goals
-1.Cheap
+This is a Drone project having these goals  1.Cheap
 2.Light
 3.Small
 4.High quality
